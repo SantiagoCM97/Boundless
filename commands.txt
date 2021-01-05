@@ -1,0 +1,2 @@
+browser-sync start --proxy "https://phinsupshop.myshopify.com" --files /tmp/theme.updates --config bs-config.js --reload-delay 1000
+theme --allow-live watch --notify=/tmp/theme.update
