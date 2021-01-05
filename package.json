@@ -1,0 +1,16 @@
+{
+  "name": "boundless",
+  "version": "1.0.0",
+  "description": "Theme",
+  "main": "bs-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NewtonsFourth <santiago.castanom@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.2",
+    "tailwindcss": "^2.0.2"
+  }
+}
